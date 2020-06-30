@@ -14,7 +14,11 @@ def join_nested_strings(src)
     array_index += 1 
     
   end
+<<<<<<< HEAD
    string_array.join(" ")
+=======
+   string_array.join('_')
+>>>>>>> f196027c98053ffd11f0a4f11609a1819c7dcaa3
   # src will be an Array of Arrays of Strings and Integers
   # Combine all Strings present in the AoA into a single value and return it
 end
